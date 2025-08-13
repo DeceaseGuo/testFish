@@ -1,0 +1,1 @@
+{"paths":{"0":["TestIcon",1],"1":["TestIcon",0,1]},"types":["cc.SpriteFrame","cc.Texture2D"],"uuids":["e954GR40lGP5G86J29JrqJ","19mxoMlsNBX63c6FIFxPEk"],"scenes":{},"redirect":[],"deps":[],"packs":{},"name":"MyIcon","importBase":"import","nativeBase":"native","debug":false,"isZip":false,"encrypted":false,"versions":{"import":[1,"39b42",0,"7871f"],"native":[0,"63c2a"]}}
